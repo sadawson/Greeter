@@ -1,0 +1,8 @@
+name: Greeter
+main: me.kovra.greeter.Greeter
+version: 1.0
+
+commands:
+    greet:
+        description: Says hello
+        usage: /<command> [Person]
